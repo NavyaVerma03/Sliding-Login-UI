@@ -49,6 +49,5 @@ Beautiful animated sliding effect between Login and Register panels with modern 
 
 ---
 
-## 💖 Made With Love By
+## Made with ❤️ Navya Verma
 
-**Navya Verma**
