@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&text=✨%20Sliding%20Login%20Form%20✨&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&color=0:0f2027,50:203a43,100:2c5364"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&text=✨%20Sliding%20Login%20Form%20✨&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&color=0:232526,50:414345,100:485563"/>
 
 <br>
 
-<img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1000&color=B8C6DB&center=true&vCenter=true&width=1200&height=120&lines=🌙+Modern+Dark+Animated+UI;✨+Smooth+Sliding+Animations;🚀+HTML+•+CSS+•+JavaScript;💫+Elegant+Glassmorphism+Design">
+<img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=30&duration=3000&pause=1000&color=EAEAEA&center=true&vCenter=true&width=1200&height=120&lines=✨+Modern+Animated+Login+UI;🌙+Smooth+Sliding+Effects;🚀+HTML+•+CSS+•+JavaScript;💎+Clean+Minimal+Design">
 
 <br><br>
 
@@ -12,31 +12,31 @@
 
 <br><br>
 
-<img width="100%" src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif"/>
+<img width="100%" src="https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif"/>
 
 </div>
 
 ---
 
-# 🌑 About Project
+# 🌌 About Project
 
-💫 A stylish dark-themed **Animated Sliding Login & Register Form** with smooth transitions and elegant UI effects.
+A modern and elegant **Animated Sliding Login & Register Form** with smooth transitions and clean UI effects.
 
-🌙 Dark Modern Design  
-✨ Smooth Sliding Animation  
-📱 Fully Responsive Layout  
-⚡ Clean & Professional UI  
+✨ Minimal Dark Theme  
+💎 Smooth Animations  
+📱 Responsive Layout  
+⚡ Modern Glassmorphism UI  
 
 ---
 
 # 🚀 Features
 
-🌟 Animated Login/Register Panels  
-🌟 Smooth Transition Effects  
-🌟 Responsive Design  
-🌟 Dark Glassmorphism UI  
-🌟 Font Awesome Icons  
-🌟 Beginner Friendly Project  
+✔️ Sliding Login/Register Panels  
+✔️ Smooth Transition Effects  
+✔️ Responsive Design  
+✔️ Clean Modern UI  
+✔️ Font Awesome Icons  
+✔️ Beginner Friendly Project  
 
 ---
 
@@ -82,4 +82,4 @@ slide-login/
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:0f2027,50:203a43,100:2c5364"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:232526,50:414345,100:485563"/>
