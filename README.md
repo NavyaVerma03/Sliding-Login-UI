@@ -1,31 +1,39 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=✨+Animated+Sliding+Login+Form+✨;Modern+UI+Design;Smooth+Sliding+Animation;HTML+•+CSS+•+JavaScript">
-
-<br>
-
-<img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5">
-<img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3">
-<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=38&pause=1000&color=FF00FF&center=true&vCenter=true&random=false&width=800&lines=✨+Animated+Sliding+Login+Form+✨;💜+Modern+UI+With+Smooth+Effects;🚀+HTML+•+CSS+•+JavaScript">
 
 <br><br>
 
-💜 Beautiful Animated Login & Register Form  
-💫 Smooth Sliding Effects & Modern UI  
-📱 Fully Responsive Design  
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/HTML5-ff5722?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-2196f3?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-ffeb3b?style=for-the-badge&logo=javascript&logoColor=black">
 
 </div>
 
 ---
 
+# 🌸 About Project
+
+💫 A stylish and fully responsive Animated Sliding Login & Register Form with smooth transitions and modern UI effects.
+
+✨ Beautiful Animations  
+🎨 Glassmorphism Design  
+📱 Responsive Layout  
+⚡ Smooth Sliding Panels  
+
+---
+
 # 🚀 Features
 
-✨ Smooth Sliding Animation  
-🎨 Modern Glassmorphism UI  
-🔐 Login & Register Forms  
-⚡ Fast & Lightweight  
-📱 Responsive Design  
-👤 Font Awesome Icons  
+✔️ Animated Login/Register Transition  
+✔️ Responsive Design  
+✔️ Clean UI  
+✔️ Font Awesome Icons  
+✔️ Beginner Friendly Project  
 
 ---
 
@@ -63,14 +71,8 @@ slide-login/
 
 ---
 
-# 🌟 Preview
-
-A stylish animated sliding form with smooth transitions between Login and Register panels.
-
----
-
 <div align="center">
 
-## 💖 Made With Love By Navya Verma 💖
+# 💖 Made With Love By Navya Verma 💖
 
 </div>
