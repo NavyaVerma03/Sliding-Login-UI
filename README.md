@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&text=✨%20Sliding%20Login%20Form%20✨&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&color=0:667eea,50:764ba2,100:6dd5ed"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&text=✨%20Sliding%20Login%20Form%20✨&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&color=0:0f2027,50:203a43,100:2c5364"/>
 
 <br>
 
-<img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3000&pause=1000&color=C8A2FF&center=true&vCenter=true&width=1200&height=120&lines=💜+Modern+Animated+Login+UI;✨+Smooth+Sliding+Animations;🌸+Beautiful+Glassmorphism+Design;🚀+HTML+•+CSS+•+JavaScript">
+<img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1000&color=B8C6DB&center=true&vCenter=true&width=1200&height=120&lines=🌙+Modern+Dark+Animated+UI;✨+Smooth+Sliding+Animations;🚀+HTML+•+CSS+•+JavaScript;💫+Elegant+Glassmorphism+Design">
 
 <br><br>
 
@@ -12,29 +12,29 @@
 
 <br><br>
 
-<img width="100%" src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif"/>
+<img width="100%" src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif"/>
 
 </div>
 
 ---
 
-# 🌸 About Project
+# 🌑 About Project
 
-💫 A stylish and modern **Animated Sliding Login & Register Form** built using HTML, CSS & JavaScript.
+💫 A stylish dark-themed **Animated Sliding Login & Register Form** with smooth transitions and elegant UI effects.
 
-✨ Smooth Sliding Effects  
-🎨 Soft Gradient Colors  
+🌙 Dark Modern Design  
+✨ Smooth Sliding Animation  
 📱 Fully Responsive Layout  
-⚡ Clean Modern UI  
+⚡ Clean & Professional UI  
 
 ---
 
 # 🚀 Features
 
 🌟 Animated Login/Register Panels  
-🌟 Smooth Transitions  
+🌟 Smooth Transition Effects  
 🌟 Responsive Design  
-🌟 Modern Glassmorphism UI  
+🌟 Dark Glassmorphism UI  
 🌟 Font Awesome Icons  
 🌟 Beginner Friendly Project  
 
@@ -82,4 +82,4 @@ slide-login/
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:667eea,50:764ba2,100:6dd5ed"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:0f2027,50:203a43,100:2c5364"/>
