@@ -1,17 +1,28 @@
-# ✨ Sliding Login Form
+<div align="center">
 
-A beautiful and modern **Sliding Login & Register Form** with smooth animations, responsive design, and clean UI built using HTML, CSS & JavaScript.
+# ✨ Animated Sliding Login Form ✨
+
+<img src="https://img.shields.io/badge/HTML-5-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/CSS-3-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge">
+
+<br><br>
+
+💫 A Beautiful & Modern Animated Login/Register Form  
+🎨 Clean UI • Smooth Sliding Animation • Responsive Design
+
+</div>
 
 ---
 
 ## 🚀 Features
 
-✅ Smooth Sliding Animation  
-✅ Login & Register System  
-✅ Responsive Design  
-✅ Modern UI  
-✅ Font Awesome Icons  
-✅ Beginner Friendly Code  
+✨ Smooth Sliding Animation  
+🔐 Login & Register Form  
+📱 Fully Responsive  
+🎨 Modern Glassmorphism UI  
+⚡ Fast & Lightweight  
+👤 Font Awesome Icons  
 
 ---
 
@@ -26,29 +37,35 @@ A beautiful and modern **Sliding Login & Register Form** with smooth animations,
 
 ## 📂 Project Structure
 
+```bash
 slide-login/
 │
 ├── index.html
 ├── style.css
 ├── script.js
 └── README.md
+```
 
 ---
 
 ## ▶️ How To Run
 
-1. Download or Clone the Repository  
-2. Open the project folder  
-3. Run `index.html` in your browser  
+```bash
+1. Clone or Download Repository
+2. Open Project Folder
+3. Run index.html
+```
 
 ---
 
 ## 🌟 Preview
 
-Beautiful animated sliding effect between Login and Register panels with modern glass-style design.
+Beautiful animated sliding transition between Login & Register panels with modern effects.
 
 ---
 
-## 💖 Made With Love By
+<div align="center">
 
-**Navya Verma**
+# 💖 Made With Love By Navya Verma 💖
+
+</div>
