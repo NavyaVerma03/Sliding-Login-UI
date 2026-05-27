@@ -1,44 +1,44 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=✨%20Sliding%20Login%20Form%20✨&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&color=0:ff00cc,50:7b2ff7,100:00c6ff"/>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1000&color=FF61F6&center=true&vCenter=true&width=850&lines=💜+Beautiful+Animated+Login+UI;✨+Smooth+Sliding+Animations;🚀+HTML+•+CSS+•+JavaScript">
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Sliding%20Login%20Form&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&color=0:fc5c7d,50:6a82fb,100:00dbde"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/HTML5-FF6B6B?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-4D96FF?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-FFD93D?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=30&duration=3000&pause=1000&color=FF4ECD&center=true&vCenter=true&width=850&lines=✨+Beautiful+Animated+Login+UI;💜+Smooth+Sliding+Animations;🚀+Modern+Glassmorphism+Design">
 
 <br><br>
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="320">
+<img src="https://img.shields.io/badge/HTML5-ff6f61?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-5dade2?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-f7dc6f?style=for-the-badge&logo=javascript&logoColor=black">
+
+<br><br>
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="330">
 
 </div>
 
 ---
 
-# 🌈 About Project
+# 🌸 About Project
 
-💫 A modern and stylish **Animated Sliding Login & Register Form** with smooth transitions and beautiful UI effects.
+💫 A stylish and modern **Animated Sliding Login & Register Form** built using HTML, CSS & JavaScript.
 
-✨ Glassmorphism Design  
-🎨 Attractive Color Combination  
-📱 Responsive Layout  
-⚡ Smooth Animations  
+✨ Smooth Sliding Effects  
+🎨 Beautiful Color Combination  
+📱 Fully Responsive Design  
+⚡ Clean & Modern UI  
 
 ---
 
 # 🚀 Features
 
-💜 Sliding Login/Register Panels  
-💙 Responsive Design  
-✨ Modern UI  
-🌟 Smooth Transition Effects  
-👤 Font Awesome Icons  
-⚡ Beginner Friendly Project  
+🌟 Animated Sliding Panels  
+🌟 Login & Register Form  
+🌟 Responsive Layout  
+🌟 Smooth Transitions  
+🌟 Modern Glassmorphism UI  
+🌟 Font Awesome Icons  
 
 ---
 
@@ -80,8 +80,8 @@ slide-login/
 
 <div align="center">
 
-# 💖 Made With Love By Navya Verma 💖
+## 💖 Made With Love By Navya Verma 💖
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:ff00cc,50:7b2ff7,100:00c6ff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:fc5c7d,50:6a82fb,100:00dbde"/>
