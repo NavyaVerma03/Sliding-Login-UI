@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <meta charset="UTF-8">
+
+  <meta name="viewport"
+  content="width=device-width, initial-scale=1.0">
+
+  <title>Sliding Login Form</title>
+
+  <link rel="stylesheet"
+  href="style.css">
+
+  <link rel="stylesheet"
+  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"/>
+
+</head>
+<body>
+
+  <div class="container">
+
+    <!-- LOGIN -->
+
+    <div class="form-box login">
+
+      <form>
+
+        <h1>Login</h1>
+
+        <div class="input-box">
+
+          <input type="text"
+          placeholder="Username"
+          required>
+
+          <i class="fa-solid fa-user"></i>
+
+        </div>
+
+        <div class="input-box">
+
+          <input type="password"
+          placeholder="Password"
+          required>
+
+          <i class="fa-solid fa-lock"></i>
+
+        </div>
+
+        <a href="#" class="forgot">
+          Forgot Password?
+        </a>
+
+        <button type="submit"
+        class="btn">
+          Login
+        </button>
+
+      </form>
+
+    </div>
+
+    <!-- REGISTER -->
+
+    <div class="form-box register">
+
+      <form>
+
+        <h1>Register</h1>
+
+        <div class="input-box">
+
+          <input type="text"
+          placeholder="Username"
+          required>
+
+          <i class="fa-solid fa-user"></i>
+
+        </div>
+
+        <div class="input-box">
+
+          <input type="email"
+          placeholder="Email"
+          required>
+
+          <i class="fa-solid fa-envelope"></i>
+
+        </div>
+
+        <div class="input-box">
+
+          <input type="password"
+          placeholder="Password"
+          required>
+
+          <i class="fa-solid fa-lock"></i>
+
+        </div>
+
+        <button type="submit"
+        class="btn">
+          Register
+        </button>
+
+      </form>
+
+    </div>
+
+    <!-- BLUE PANEL -->
+
+    <div class="overlay">
+
+      <div class="overlay-panel left">
+
+        <h1>Hello, Welcome!</h1>
+
+        <p>Don't have an account?</p>
+
+        <button class="switch-btn"
+        id="register">
+          Register
+        </button>
+
+      </div>
+
+      <div class="overlay-panel right">
+
+        <h1>Welcome Back!</h1>
+
+        <p>Already have an account?</p>
+
+        <button class="switch-btn"
+        id="login">
+          Login
+        </button>
+
+      </div>
+
+    </div>
+
+  </div>
+
+  <script src="script.js"></script>
+
+</body>
+</html>
