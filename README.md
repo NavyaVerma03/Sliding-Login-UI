@@ -1,41 +1,46 @@
 <div align="center">
 
-# ✨ Animated Sliding Login Form ✨
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=✨+Animated+Sliding+Login+Form+✨;Modern+UI+Design;Smooth+Sliding+Animation;HTML+•+CSS+•+JavaScript">
 
-<img src="https://img.shields.io/badge/HTML-5-orange?style=for-the-badge">
-<img src="https://img.shields.io/badge/CSS-3-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge">
+<br>
+
+<img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5">
+<img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3">
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript">
 
 <br><br>
 
-💫 A Beautiful & Modern Animated Login/Register Form  
-🎨 Clean UI • Smooth Sliding Animation • Responsive Design
+💜 Beautiful Animated Login & Register Form  
+💫 Smooth Sliding Effects & Modern UI  
+📱 Fully Responsive Design  
 
 </div>
 
 ---
 
-## 🚀 Features
+# 🚀 Features
 
 ✨ Smooth Sliding Animation  
-🔐 Login & Register Form  
-📱 Fully Responsive  
 🎨 Modern Glassmorphism UI  
+🔐 Login & Register Forms  
 ⚡ Fast & Lightweight  
+📱 Responsive Design  
 👤 Font Awesome Icons  
 
 ---
 
-## 🛠️ Technologies Used
+# 🛠️ Technologies Used
 
-- HTML5
-- CSS3
-- JavaScript
-- Font Awesome
+```bash
+HTML5
+CSS3
+JavaScript
+Font Awesome
+```
 
 ---
 
-## 📂 Project Structure
+# 📂 Project Structure
 
 ```bash
 slide-login/
@@ -48,7 +53,7 @@ slide-login/
 
 ---
 
-## ▶️ How To Run
+# ▶️ How To Run
 
 ```bash
 1. Clone or Download Repository
@@ -58,14 +63,14 @@ slide-login/
 
 ---
 
-## 🌟 Preview
+# 🌟 Preview
 
-Beautiful animated sliding transition between Login & Register panels with modern effects.
+A stylish animated sliding form with smooth transitions between Login and Register panels.
 
 ---
 
 <div align="center">
 
-# 💖 Made With Love By Navya Verma 💖
+## 💖 Made With Love By Navya Verma 💖
 
 </div>
