@@ -1,20 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Sliding%20Login%20Form&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&color=0:fc5c7d,50:6a82fb,100:00dbde"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&text=✨%20Sliding%20Login%20Form%20✨&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38&color=0:ff0080,25:7928ca,50:2afadf,75:00c6ff,100:ff0080"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=30&duration=3000&pause=1000&color=FF4ECD&center=true&vCenter=true&width=850&lines=✨+Beautiful+Animated+Login+UI;💜+Smooth+Sliding+Animations;🚀+Modern+Glassmorphism+Design">
+<img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&duration=3000&pause=1000&color=FF4DFF&center=true&vCenter=true&width=1200&height=120&lines=💜+Modern+Animated+Login+UI;✨+Smooth+Sliding+Animations;🚀+HTML+•+CSS+•+JavaScript;🌈+Beautiful+Glassmorphism+Design">
 
 <br><br>
 
-<img src="https://img.shields.io/badge/HTML5-ff6f61?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-5dade2?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-f7dc6f?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://skillicons.dev/icons?i=html,css,js" height="70"/>
 
 <br><br>
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="330">
+<img width="100%" src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif"/>
 
 </div>
 
@@ -22,23 +20,23 @@
 
 # 🌸 About Project
 
-💫 A stylish and modern **Animated Sliding Login & Register Form** built using HTML, CSS & JavaScript.
+💫 A stylish and modern **Animated Sliding Login & Register Form** with smooth animations and beautiful UI effects.
 
-✨ Smooth Sliding Effects  
-🎨 Beautiful Color Combination  
-📱 Fully Responsive Design  
-⚡ Clean & Modern UI  
+✨ Glassmorphism Design  
+🌈 Attractive Gradient Colors  
+📱 Fully Responsive Layout  
+⚡ Smooth Sliding Effects  
 
 ---
 
 # 🚀 Features
 
-🌟 Animated Sliding Panels  
-🌟 Login & Register Form  
-🌟 Responsive Layout  
+🌟 Animated Login/Register Panels  
 🌟 Smooth Transitions  
-🌟 Modern Glassmorphism UI  
+🌟 Responsive Design  
+🌟 Modern UI  
 🌟 Font Awesome Icons  
+🌟 Beginner Friendly Project  
 
 ---
 
@@ -80,8 +78,8 @@ slide-login/
 
 <div align="center">
 
-## 💖 Made With Love By Navya Verma 💖
+# 💖 Made With Love By Navya Verma 💖
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:fc5c7d,50:6a82fb,100:00dbde"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:ff0080,25:7928ca,50:2afadf,75:00c6ff,100:ff0080"/>
