@@ -26,10 +26,29 @@ A beautiful and modern **Sliding Login & Register Form** with smooth animations,
 
 ## 📂 Project Structure
 
-```bash
 slide-login/
 │
 ├── index.html
 ├── style.css
 ├── script.js
 └── README.md
+
+---
+
+## ▶️ How To Run
+
+1. Download or Clone the Repository  
+2. Open the project folder  
+3. Run `index.html` in your browser  
+
+---
+
+## 🌟 Preview
+
+Beautiful animated sliding effect between Login and Register panels with modern glass-style design.
+
+---
+
+## 💖 Made With Love By
+
+**Navya Verma**
